@@ -5,7 +5,7 @@ import fresh_tomatoes
 """
 declare movies, with 4 args each:
 movie_title (movie's title)
-movie_storyline (year movie was released)
+movie_storyline (story of movie)
 movie_poster (url to poster image)
 movie_trailer (url to youtube trailer)
 """
