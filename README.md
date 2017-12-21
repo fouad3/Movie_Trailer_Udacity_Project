@@ -55,10 +55,10 @@ The constructor method is called when a new Movie object is created and must inc
 import media
 
 #information for object arguments
-movie-title = "Manchester by the Sea"
-movie-storyline = "A depressed uncle is asked to take care of his teenage nephew after 
+movie_title = "Manchester by the Sea"
+movie_storyline = "A depressed uncle is asked to take care of his teenage nephew after 
 the boy's father dies.."
-movie-poster = "http://www.impawards.com/2016/posters/manchester_by_the_sea.jpg"
+movie_poster = "http://www.impawards.com/2016/posters/manchester_by_the_sea.jpg"
 movie_trailer = "https://www.youtube.com/watch?v=gsVoD0pTge0"
 
 # Create Movie object
